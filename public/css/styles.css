@@ -1,0 +1,10 @@
+body {
+	background-color: blue;
+}
+h1, div p {
+	text-align: center;
+}
+.jumbotron {
+	display: flex;
+	padding: 0;
+}
